@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey there! 👋 I'm Reysel
+# Hey there! 👋 I'm Mandela
 
 [![Profile Views](https://komarev.com/ghpvc/?username=miguelrg12&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/miguelrg12)
 
