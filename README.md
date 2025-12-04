@@ -66,7 +66,7 @@ I'm a passionate **Frontend Developer** dedicated to creating stunning user inte
 ## 🎯 What I Do
 
 ```javascript
-const reysel = {
+const Mandela = {
     role: "Frontend Developer",
     specialties: ["FiveM UI Development", "Web Design", "Responsive Interfaces"],
     currentFocus: "Creating immersive gaming experiences & modern web applications",
