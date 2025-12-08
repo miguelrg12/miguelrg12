@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey there! 👋 I'm Mandela
+# Hey there! 👋 I'm Miguel
 
 [![Profile Views](https://komarev.com/ghpvc/?username=miguelrg12&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/miguelrg12)
 
@@ -66,7 +66,7 @@ I'm a passionate **Frontend Developer** dedicated to creating stunning user inte
 ## 🎯 What I Do
 
 ```javascript
-const Mandela = {
+const Miguel = {
     role: "Frontend Developer",
     specialties: ["FiveM UI Development", "Web Design", "Responsive Interfaces"],
     currentFocus: "Creating immersive gaming experiences & modern web applications",
