@@ -25,6 +25,9 @@ I'm a passionate **Frontend Developer** dedicated to creating stunning user inte
 ## 📊 GitHub Statistics
 
 <div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelrg12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/miguelrg12)
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelrg12&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)](https://github.com/miguelrg12)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrg12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/miguelrg12)
