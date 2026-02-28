@@ -1,93 +1,49 @@
-<div align="center">
-  
-# Hey there! 👋 I'm Miguel
 
-[![Profile Views](https://komarev.com/ghpvc/?username=miguelrg12&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/miguelrg12)
 
-### Frontend Developer | FiveM UI Specialist | Web Designer
+<h1 align="center"><b>Miguel Ramirez</b></h1>
 
-*Crafting beautiful interfaces and immersive experiences*
+<p align="center">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300BFFF&size=24&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Backend+%26+UI+Specialist;Node.js+%7C+Express+%7C+FiveM+UI" alt="Typing SVG">
+	</a>
+</p>
 
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate **Frontend Developer** dedicated to creating stunning user interfaces and web experiences. I specialize in:
-
-- 🎮 **FiveM UI Development** - Building immersive and responsive interfaces for game servers
-- 🌐 **Web Development** - Designing and developing modern, responsive websites
-- ✨ **UI/UX Design** - Creating user-friendly and visually appealing interfaces
+Full Stack Developer | Backend & UI Specialist
 
 ---
 
-## 📊 GitHub Statistics
+## About Me
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelrg12&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)](https://github.com/miguelrg12)
-
-</div>
+I am a Full Stack Developer focused on backend systems, web applications, and custom interfaces for FiveM servers. I enjoy designing scalable solutions with clean logic and modern UI/UX. My experience covers both frontend and backend, including automation and API development.
 
 ---
 
-## 🛠️ Tech Stack
+## Skills & Technologies
 
-<div align="center">
-
-### Languages
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### Tools & Platforms
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logoColor=white)
-
-</div>
+**Languages:** JavaScript, TypeScript, Lua, HTML, CSS, SQL
+**Backend:** Node.js, Express
+**Frontend:** React, Astro, TailwindCSS, shadcn/ui
+**DevOps / Automation:** Docker, Git, GitHub
+**Platforms:** FiveM, Visual Studio Code
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
-```javascript
-const Miguel = {
-    role: "Frontend Developer",
-    specialties: ["FiveM UI Development", "Web Design", "Responsive Interfaces"],
-    currentFocus: "Creating immersive gaming experiences & modern web applications",
-    passions: ["Clean Code", "Beautiful UI", "User Experience"]
-};
-```
+- Full stack web development
+- Backend API design and automation
+- FiveM UI and server-side scripting
+- UI/UX design and implementation
+- Responsive and accessible web solutions
 
 ---
 
-## 📫 Let's Connect
+## Contact
 
-<div align="center">
+Open to collaborations and new opportunities.
 
-*Open to collaborations and new opportunities!*
-
-[![GitHub](https://img.shields.io/badge/GitHub-miguelrg12-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelrg12)
-
-</div>
+[GitHub Profile](https://github.com/miguelrg12)
 
 ---
 
-<div align="center">
-  
-⭐ **Thanks for visiting my profile!** ⭐
-
-*Feel free to explore my repositories and reach out for collaborations!*
-
-</div>
+Thank you for visiting my profile.
