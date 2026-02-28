@@ -29,4 +29,8 @@
   <img title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=miguelrg12&show_icons=true&theme=tokyonight" alt="Miguel's GitHub Stats" />
+
 </div>
