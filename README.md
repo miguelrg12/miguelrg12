@@ -35,6 +35,8 @@
 
 <br>
 
+<hr style="margin: 18px 0; border: none; border-top: 1px solid #333; width: 80%;"/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelrg12&theme=tokyonight" alt="GitHub Profile Details" />
 
 </div>
