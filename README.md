@@ -1,3 +1,11 @@
+<!-- Banner Top: SVG Waves -->
+<div align="center">
+  <svg width="100%" height="80" viewBox="0 0 1200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0,40 C300,80 900,0 1200,40 L1200,0 L0,0 Z" fill="#00BFFF" opacity="0.15"/>
+    <path d="M0,60 C400,100 800,20 1200,60 L1200,0 L0,0 Z" fill="#0078d4" opacity="0.2"/>
+  </svg>
+</div>
+
 <div align="center">
 
 <h1>👋 Hi, I'm Miguel Ramirez</h1>
@@ -33,4 +41,12 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelrg12&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
+</div>
+
+<!-- Banner Bottom: SVG Waves -->
+<div align="center">
+  <svg width="100%" height="80" viewBox="0 0 1200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0,40 C300,0 900,80 1200,40 L1200,80 L0,80 Z" fill="#00BFFF" opacity="0.15"/>
+    <path d="M0,20 C400,-20 800,60 1200,20 L1200,80 L0,80 Z" fill="#0078d4" opacity="0.2"/>
+  </svg>
 </div>
