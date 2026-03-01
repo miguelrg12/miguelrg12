@@ -1,6 +1,5 @@
-<!-- Banner Top: SVG Wave Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&fontSize=90"/>
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-wave/main/wave-top-dark.svg" height="100"/>
 </p>
 
 <div align="center">
@@ -40,7 +39,6 @@
 
 </div>
 
-<!-- Banner Bottom: SVG Wave Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-wave/main/wave-bottom-dark.svg" height="100"/>
 </p>
