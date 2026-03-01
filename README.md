@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-wave/main/wave-top-dark.svg" height="100"/>
-</p>
-
 <div align="center">
 
 <h1>👋 Hi, I'm Miguel Ramirez</h1>
@@ -37,8 +33,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelrg12&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
-</div>
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-wave/main/wave-bottom-dark.svg" height="100"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrg12&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</div>
