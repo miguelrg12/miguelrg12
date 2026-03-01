@@ -1,10 +1,7 @@
-<!-- Banner Top: SVG Waves -->
-<div align="center">
-  <svg width="100%" height="80" viewBox="0 0 1200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0,40 C300,80 900,0 1200,40 L1200,0 L0,0 Z" fill="#00BFFF" opacity="0.15"/>
-    <path d="M0,60 C400,100 800,20 1200,60 L1200,0 L0,0 Z" fill="#0078d4" opacity="0.2"/>
-  </svg>
-</div>
+<!-- Banner Top: SVG Wave Image -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&fontSize=90"/>
+</p>
 
 <div align="center">
 
@@ -20,7 +17,7 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-top: 18px;">
+<p align="center">
   <img title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -35,7 +32,7 @@
   <img title="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
+</p>
 
 <br>
 
@@ -43,10 +40,7 @@
 
 </div>
 
-<!-- Banner Bottom: SVG Waves -->
-<div align="center">
-  <svg width="100%" height="80" viewBox="0 0 1200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0,40 C300,0 900,80 1200,40 L1200,80 L0,80 Z" fill="#00BFFF" opacity="0.15"/>
-    <path d="M0,20 C400,-20 800,60 1200,20 L1200,80 L0,80 Z" fill="#0078d4" opacity="0.2"/>
-  </svg>
-</div>
+<!-- Banner Bottom: SVG Wave Image -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
+</p>
