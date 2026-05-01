@@ -33,6 +33,20 @@
 
 <hr style="margin: 18px 0; border: none; border-top: 3px solid gradient(90deg, #007FFF, #333); width: 85%;"/>
 
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=miguelrg12&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+<br>
+
+## 📊 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelrg12&theme=react-dark&hide_border=false&area=true" alt="GitHub Activity Graph" />
+
+<br>
+
+<hr style="margin: 18px 0; border: none; border-top: 3px solid gradient(90deg, #007FFF, #333); width: 85%;"/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelrg12&theme=radical" alt="GitHub Profile Details" />
 
 </div>
