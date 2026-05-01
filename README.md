@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=Miguel%20Ramirez&fontSize=50&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50"/>
+
 <h1>👋 Hi, I'm Miguel Ramirez</h1>
 
 <p style="font-size: 1.2em; margin-bottom: 8px;">Full Stack Developer</p>
@@ -48,5 +50,7 @@
 <hr style="margin: 18px 0; border: none; border-top: 3px solid gradient(90deg, #007FFF, #333); width: 85%;"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelrg12&theme=tokyonight" alt="GitHub Profile Details" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer"/>
 
 </div>
