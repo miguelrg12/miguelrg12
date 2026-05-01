@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23007FFF&size=22&center=true&vCenter=true&width=500&height=40&lines=Creating+Next-Gen+Web+Apps;UI%2FUX+and+Backend+Specialist;Node.js+%7C+React+%7C+Astro;Crafting+Elegant+Designs;Dedicated+Problem+Solver" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%237AA2F7&size=22&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Modern+Web+Experiences;Crafting+Elegant+Solutions;Passionate+About+Clean+Code;Always+Learning+New+Tech" alt="Typing SVG">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelrg12&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelrg12&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 <br>
 
@@ -35,18 +35,18 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=miguelrg12&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=miguelrg12&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
 <br>
 
 ## 📊 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelrg12&theme=react-dark&hide_border=false&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelrg12&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 <br>
 
 <hr style="margin: 18px 0; border: none; border-top: 3px solid gradient(90deg, #007FFF, #333); width: 85%;"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelrg12&theme=radical" alt="GitHub Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelrg12&theme=tokyonight" alt="GitHub Profile Details" />
 
 </div>
