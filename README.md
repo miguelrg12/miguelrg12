@@ -10,19 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img title="Sass/SCSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img title="TailwindCSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-  <img title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</p>
-
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelrg12&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
@@ -31,13 +18,9 @@
 
 <hr style="margin: 18px 0; border: none; border-top: 3px solid gradient(90deg, #007FFF, #333); width: 85%;"/>
 
-## 🏆 GitHub Trophies
-
 <img src="https://github-profile-trophy.vercel.app/?username=miguelrg12&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
 <br>
-
-## 📊 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelrg12&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
